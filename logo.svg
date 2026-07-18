@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.2" baseProfile="tiny-ps" viewBox="0 0 1156 1156">
+  <title>Willis Security</title>
+  <rect x="0" y="0" width="1156" height="1156" fill="#FFFFFF"/>
+  <path fill="#545454" fill-rule="evenodd" d="M508,602 L495,624 L564,734 L577,713 Z M592,464 L578,486 L647,599 L660,577 Z"/>
+  <path fill="#737373" fill-rule="evenodd" d="M853,265 L580,359 L610,371 L579,390 L621,415 L591,464 L660,576 L781,382 L766,371 L795,359 Z M80,264 L467,891 L563,735 L495,625 L465,668 L314,419 L371,378 L359,361 Z"/>
+  <path fill="#868686" fill-rule="evenodd" d="M468,667 L467,668 L466,668 L467,668 Z M301,264 L688,892 L1075,265 L767,371 L842,416 L688,669 L534,415 L609,371 Z"/>
+</svg>
